@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 24, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/IT%20GENICS/Desktop/practice/my-app/app/contactus/page.tsx"],"sourcesContent":["import { Layout } from 'antd';\r\nimport Contactus from '@/app/views/contactusPage/contactus';\r\nexport default function Page() {\r\n    return (\r\n        <Layout className=\"min-h-screen bg-gray-50\">\r\n          <Contactus />\r\n        </Layout>\r\n      );\r\n}"],"names":[],"mappings":";;;;;AAAA;AACA;;;;AACe,SAAS;IACpB,qBACI,8OAAC,6IAAM;QAAC,WAAU;kBAChB,cAAA,8OAAC,sJAAS;;;;;;;;;;AAGpB","debugId":null}}]
+}
