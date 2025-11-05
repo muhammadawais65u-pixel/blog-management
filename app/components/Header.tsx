@@ -70,10 +70,11 @@ const Navbar: React.FC = () => {
             </li>
             <li>
               <Button
+                href="/login"
                 type="dashed"
                 className="bg-purple-700 !py-5 !text-[18px] font-roboto !hover:bg-purple-800 w-full lg:w-auto"
               >
-                Download
+                Login
               </Button>
             </li>
           </ul>
